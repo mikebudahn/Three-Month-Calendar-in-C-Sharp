@@ -30,6 +30,7 @@ namespace Three_Calendars_In_C_Sharp
         /// </summary>
         private void InitializeComponent()
         {
+            // Change
             // DateTime lastmonth = DateTime.Today.AddMonths(-1);
             // DateTime nextmonth = DateTime.Today.AddMonths(1);
             DateTime lastmonth = DateTime.Today.AddMonths(-1);
